@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746999436561",
+    "project_id": "eling-dimsum",
+    "storage_bucket": "eling-dimsum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746999436561:android:4e140be510ef4d8069e8b0",
+        "android_client_info": {
+          "package_name": "com.example.pos_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZL52nJTA1ooSoHS2RoU9r1rIuTgH3K0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
